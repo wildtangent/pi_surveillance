@@ -1,0 +1,22 @@
+{
+  "show_video": true,
+  "show_deltas": true,
+  "use_dropbox": false,
+  "use_twitter": true,
+  "dropbox_key": "65zghko7pnff29i",
+  "dropbox_secret": "61nrjepqga0faio",
+  "dropbox_base_path": "authomediapisurveillance",
+  "min_upload_seconds": 3.0,
+  "min_motion_frames": 8,
+  "camera_warmup_time": 2.5,
+  "delta_thresh": 3,
+  "resolution": [640, 480],
+  "fps": 16,
+  "min_area": 3000,
+  "twitter": {
+    "consumer_key": "CPsFOpw6stcvlYkOBo60cqIym",
+    "consumer_secret": "HMznzncYqEG9Cio6etPJtWcHQlaSOPAfQw30tbrKQ2FtbRyFVD",
+    "access_token": "7256962-TXt3dagIiVKmrduViFbRbRFwIw0mXCeHVn4cztIE99",
+    "access_token_secret": "EYurLbN90q7hpe7EtnaLD39lCYsypYTSdCS9FwMdUGt82"
+  }
+}
